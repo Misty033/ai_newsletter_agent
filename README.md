@@ -56,4 +56,5 @@ This agent is highly configurable and can be adapted far beyond just AI news. He
 
 ## Author
 Copyright (c) 2026 Misty Roy
+<br><br>
 Linkedin: https://www.linkedin.com/in/misty-roy-74ab48199/
