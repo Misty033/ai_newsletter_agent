@@ -4,7 +4,7 @@ A fully automated, end-to-end AI news aggregation pipeline.
 
 This agent wakes up every day to scrape the internet for the most cutting-edge AI news, uses local LLMs to read and rank their importance, synthesizes summaries, and delivers a personalized daily and weekly HTML digest straight to your email inbox.
 <br><br>
-### Preview
+## Preview
 <p align="center">
   <img src="images/arch.png" width="700"><br>
   <sub>Workflow</sub>
@@ -21,7 +21,7 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 </p>
 <br><br>
 
-### 🌟 Key Features
+## 🌟 Key Features
 - **Broad Intel Gathering:** Pulls real-time data from 50+ RSS feeds (OpenAI, DeepMind, Anthropic), arXiv API, Reddit APIs, and trending GitHub repos.
 - **Local AI Evaluator:** Uses **Ollama (Llama 3)** running locally to independently read, score, and evaluate every article out of 10 to cut out the noise.
 - **Automated Summarization:** Pushes the top trending articles back through Llama 3 to generate small summaries and categorical tags.
@@ -29,7 +29,7 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 - **Human-in-the-Loop Feedback:** A native Flask web-hook embedded in the email allows you to click 👍/👎 on stories, sending signals back to the database for ML-driven preference weighting.
 - **Full Automation:** Orchestrated by Apache Airflow running in Docker.
 
-### 🛠️ Architecture Stack
+## 🛠️ Architecture Stack
 - **Orchestration:** Apache Airflow (Dockerized)
 - **AI Backend:** Ollama (Llama 3, running natively)
 - **Database:** PostgreSQL (Containerized)
