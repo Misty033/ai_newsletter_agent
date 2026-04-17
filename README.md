@@ -53,3 +53,7 @@ This agent is highly configurable and can be adapted far beyond just AI news. He
 * **Team Knowledge Sharing:** Deploy the agent for your startup or research lab. Engineers and researchers can subscribe with their specific interests (e.g., "robotics", "open-source LLMs") and automatically receive a team-wide newsletter without manual curation.
 * **Niche Academic Monitoring:** Configure the agent to monitor specific arXiv categories and academic subreddits. It will automatically filter out the noise and deliver high-impact research papers right to your inbox with condensed, easy-to-read summaries.
 * **Content Curation for Creators:** If you run an industry newsletter or social media channel, use the agent as an automated research assistant to discover, categorize, and draft summaries for the content you plan to publish.
+
+## Author
+Copyright (c) 2026 Misty Roy
+Linkedin: https://www.linkedin.com/in/misty-roy-74ab48199/
