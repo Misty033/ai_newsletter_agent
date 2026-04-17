@@ -42,7 +42,7 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 </p>
 
 
-Read the `SETUP.md` for specific instructions on how to replicate and run this system locally.
+**Read the `SETUP.md` for specific instructions on how to replicate and run this system locally.**
 
 ## 💡 Use Cases
 
@@ -51,6 +51,5 @@ This agent is highly configurable and can be adapted far beyond just AI news. He
 * **Accelerated Learning for Newcomers:** In the rapidly changing landscape of AI, it is incredibly easy to miss out on critical updates. People who are new to AI can use this agent to gain easily digestible, high-signal information daily, allowing them to rapidly upgrade their skills and stay relevant in the tech world.
 * **Personalized Daily Briefings:** Save hours of doom-scrolling by receiving a curated, distraction-free email every morning containing only the top 5 highest-quality breakthroughs in your field. 
 * **Team Knowledge Sharing:** Deploy the agent for your startup or research lab. Engineers and researchers can subscribe with their specific interests (e.g., "robotics", "open-source LLMs") and automatically receive a team-wide newsletter without manual curation.
-* **Competitive Intelligence:** Point the RSS scrapers at competitors' engineering blogs, product release pages, and industry news feeds. Allow the LLM to score and surface only the most crucial strategic announcements.
 * **Niche Academic Monitoring:** Configure the agent to monitor specific arXiv categories and academic subreddits. It will automatically filter out the noise and deliver high-impact research papers right to your inbox with condensed, easy-to-read summaries.
 * **Content Curation for Creators:** If you run an industry newsletter or social media channel, use the agent as an automated research assistant to discover, categorize, and draft summaries for the content you plan to publish.
