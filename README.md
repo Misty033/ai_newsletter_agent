@@ -6,6 +6,11 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 <br><br>
 ### Preview
 <p align="center">
+  <img src="images/arch.png" width="700"><br>
+  <sub>Workflow</sub>
+</p>
+<br><br>
+<p align="center">
   <img src="images/email_snapshot.png" width="700"><br>
   <sub>Outcome: Email Snapshot</sub>
 </p>
