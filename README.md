@@ -11,7 +11,7 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 </p>
 <br><br>
 <p align="center">
-  <img src="images/email_snapshot.png" width="700"><br>
+  <img src="images/email.png" width="700"><br>
   <sub>Outcome: Email Snapshot</sub>
 </p>
 <br><br>
