@@ -4,7 +4,7 @@ A fully automated, end-to-end AI news aggregation pipeline.
 
 This agent wakes up every day to scrape the internet for the most cutting-edge AI news, uses local LLMs to read and rank their importance, synthesizes summaries, and delivers a personalized daily and weekly HTML digest straight to your email inbox.
 ![Alt text](images/email_snapshot.png)
-![Alt text](images/dashborad.png)
+![Alt text](images/dashboard.png)
 
 ### 🌟 Key Features
 - **Broad Intel Gathering:** Pulls real-time data from 50+ RSS feeds (OpenAI, DeepMind, Anthropic), arXiv API, Reddit APIs, and trending GitHub repos.
