@@ -14,7 +14,6 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
   <img src="images/dashboard.png" width="700"><br>
   <sub>Monitoring: Streamlit Dashboard</sub>
 </p>
-![Alt text](images/dashboard.png)
 <br><br>
 
 ### 🌟 Key Features
@@ -32,6 +31,10 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 - **Email Delivery:** Python `smtplib` -> Gmail SMTP
 - **Web Dashboards:** Streamlit (Archive Viewer) & Flask (Feedback Server)
 
-![Alt text](images/architecture.png)
+<p align="center">
+  <img src="images/architecture.png" width="700"><br>
+  <sub>Architecture of the workflow</sub>
+</p>
+
 
 Read the `SETUP.md` for specific instructions on how to replicate and run this system locally.
