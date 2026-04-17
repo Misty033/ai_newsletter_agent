@@ -37,7 +37,7 @@ This agent wakes up every day to scrape the internet for the most cutting-edge A
 - **Web Dashboards:** Streamlit (Archive Viewer) & Flask (Feedback Server)
 
 <p align="center">
-  <img src="images/architecture.png" width="700"><br>
+  <img src="images/architecture1.png" width="700"><br>
   <sub>Architecture of the workflow</sub>
 </p>
 
