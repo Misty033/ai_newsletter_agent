@@ -2,15 +2,18 @@
 
 A fully automated, end-to-end AI news aggregation pipeline. 
 
-This agent wakes up every day to scrape the internet for the most cutting-edge AI news, uses local LLMs to read and rank their importance, synthesizes summaries, and delivers a personalized daily and weekly HTML digest straight to your email inbox.
+This agent wakes up every day to scrape the internet for the most cutting-edge AI news, https://github.com/Misty033/ai_newsletter_agent/edit/main/README.mduses local LLMs to read and rank their importance, synthesizes summaries, and delivers a personalized daily and weekly HTML digest straight to your email inbox.
 <br><br>
 ### Preview
 <p align="center">
   <img src="images/email_snapshot.png" width="700"><br>
   <sub>Outcome: Email Snapshot</sub>
 </p>
-![Alt text](images/email_snapshot.png)
 <br><br>
+<p align="center">
+  <img src="images/dashboard.png" width="700"><br>
+  <sub>Monitoring: Streamlit Dashboard</sub>
+</p>
 ![Alt text](images/dashboard.png)
 <br><br>
 
